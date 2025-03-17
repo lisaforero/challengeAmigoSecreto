@@ -24,15 +24,15 @@ Estilos personalizados para una mejor experiencia de usuario.
 
 Clona el repositorio desde la consola:
 
-git clone https://github.com/lisaforero/challengeAmigoSecreto.git
+```git clone https://github.com/lisaforero/challengeAmigoSecreto.git```
 
 Después de clonar el repositorio, navega hasta la carpeta del proyecto:
 
-cd challengeAmigoSecreto
+```cd challengeAmigoSecreto```
 
 Luego puedes abrir el archivo index.html escribiendo:
 
-start index.html
+```start index.html```
 
 O desde el Explorador de archivos donde este la carpeta del proyecto, haz doble click en index.html.
 
@@ -40,4 +40,4 @@ Ahora estando en el navegador, ingresa nombres en el campo de texto y prueba las
 
 ### 🛠 Personalización
 
-Puedes modificar los estilos en el archivo styles.css y ajustar el comportamiento en script.js.
+Puedes modificar los estilos en el archivo styles.css y ajustar el comportamiento en app.js.
